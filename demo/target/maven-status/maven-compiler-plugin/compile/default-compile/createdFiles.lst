@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\AppConfiguration.class
+com\example\demo\HelloController.class
+com\example\demo\MessageProperties.class
+com\example\demo\AzureCredentials.class
